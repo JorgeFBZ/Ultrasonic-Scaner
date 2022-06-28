@@ -8,3 +8,6 @@ Ultrasonic 3D Scaner using and HC-SR04 sensor.
 * Arduino Board (I`m using Arduino Mega)
 * 2- stepper motors 28BYJ-48
 * [1- Sensor Housing](https://www.thingiverse.com/thing:1170335)
+
+
+![3D printed ultrasonic sensor scaner](https://github.com/JorgeFBZ/Ultrasonic-Scaner/blob/main/scaner.jpg?raw=true)
